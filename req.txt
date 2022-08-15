@@ -17,3 +17,4 @@ https://github.com/Tinche/aiofiles/archive/master.zip
 dnspython
 psutil
 pymongo
+pycopy-ftplib
